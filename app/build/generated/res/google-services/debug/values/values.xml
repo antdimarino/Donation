@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">108859795481-99s7qlocat10cfdjsljh3kgtg4avqoub.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://donation-93e94.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">108859795481</string>
+    <string name="google_api_key" translatable="false">AIzaSyBP1aXinhp_MalJXc-P5GoukW7rZ4mZp_o</string>
+    <string name="google_app_id" translatable="false">1:108859795481:android:39f8a817ce57e26a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBP1aXinhp_MalJXc-P5GoukW7rZ4mZp_o</string>
+    <string name="google_storage_bucket" translatable="false">donation-93e94.appspot.com</string>
+    <string name="project_id" translatable="false">donation-93e94</string>
+</resources>

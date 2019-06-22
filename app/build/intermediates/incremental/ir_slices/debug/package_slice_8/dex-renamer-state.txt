@@ -1,0 +1,4 @@
+#Mon Jun 17 15:31:13 CEST 2019
+base.0=/home/secondigliano/AndroidStudioProjects/Donation/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
